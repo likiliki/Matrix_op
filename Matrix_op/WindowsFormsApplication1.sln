@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_Op", "WindowsFormsApplication1\Matrix_Op.csproj", "{E4C63869-103E-4A85-855B-812D08C85607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C63869-103E-4A85-855B-812D08C85607}.Debug|x86.ActiveCfg = Debug|x86
+		{E4C63869-103E-4A85-855B-812D08C85607}.Debug|x86.Build.0 = Debug|x86
+		{E4C63869-103E-4A85-855B-812D08C85607}.Release|x86.ActiveCfg = Release|x86
+		{E4C63869-103E-4A85-855B-812D08C85607}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
